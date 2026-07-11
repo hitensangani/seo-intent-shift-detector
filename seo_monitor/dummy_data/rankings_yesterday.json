@@ -1,0 +1,101 @@
+{
+  "snapshot_date": "2026-07-07",
+  "keyword": "project management software for agencies",
+  "location": "United Kingdom",
+  "device": "desktop",
+  "our_domain": "clientco.com",
+  "our_result": {
+    "position": 2,
+    "url": "https://clientco.com/project-management-software",
+    "title": "Project Management Software for Agencies | ClientCo",
+    "description": "ClientCo helps agencies manage projects, track time, and deliver results. Trusted by 2,000+ agencies worldwide.",
+    "page_type": "product_landing_page"
+  },
+  "serp_snapshot": [
+    {
+      "position": 1,
+      "url": "https://monday.com/project-management",
+      "title": "monday.com | Project Management for Teams",
+      "page_type": "product_landing_page",
+      "domain_authority": 92
+    },
+    {
+      "position": 2,
+      "url": "https://clientco.com/project-management-software",
+      "title": "Project Management Software for Agencies | ClientCo",
+      "page_type": "product_landing_page",
+      "domain_authority": 61
+    },
+    {
+      "position": 3,
+      "url": "https://asana.com/uses/agency-project-management",
+      "title": "Agency Project Management | Asana",
+      "page_type": "product_landing_page",
+      "domain_authority": 91
+    },
+    {
+      "position": 4,
+      "url": "https://teamwork.com/project-management-software",
+      "title": "Project Management Software | Teamwork.com",
+      "page_type": "product_landing_page",
+      "domain_authority": 73
+    },
+    {
+      "position": 5,
+      "url": "https://clickup.com/teams/agency",
+      "title": "Project Management for Agencies | ClickUp",
+      "page_type": "product_landing_page",
+      "domain_authority": 87
+    },
+    {
+      "position": 6,
+      "url": "https://wrike.com/agency-project-management",
+      "title": "Agency Project Management Software | Wrike",
+      "page_type": "product_landing_page",
+      "domain_authority": 82
+    },
+    {
+      "position": 7,
+      "url": "https://basecamp.com/agency",
+      "title": "Basecamp for Agencies",
+      "page_type": "product_landing_page",
+      "domain_authority": 90
+    },
+    {
+      "position": 8,
+      "url": "https://hubspot.com/products/crm/project-management",
+      "title": "Project Management | HubSpot",
+      "page_type": "product_landing_page",
+      "domain_authority": 93
+    },
+    {
+      "position": 9,
+      "url": "https://pcmag.com/picks/best-project-management-software",
+      "title": "The Best Project Management Software for 2026 | PCMag",
+      "page_type": "editorial_listicle",
+      "domain_authority": 91
+    },
+    {
+      "position": 10,
+      "url": "https://forbes.com/advisor/business/best-project-management-software",
+      "title": "Best Project Management Software Of 2026 | Forbes",
+      "page_type": "editorial_listicle",
+      "domain_authority": 95
+    }
+  ],
+  "serp_features": {
+    "ai_overview": false,
+    "featured_snippet": false,
+    "people_also_ask": true,
+    "image_pack": false,
+    "video_carousel": false,
+    "local_pack": false,
+    "shopping": false,
+    "sitelinks": true
+  },
+  "page_metrics": {
+    "estimated_traffic": 1840,
+    "click_through_rate": 0.142,
+    "impressions": 12958
+  }
+}
