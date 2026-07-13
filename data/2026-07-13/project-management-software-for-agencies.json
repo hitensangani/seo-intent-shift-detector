@@ -1,0 +1,47 @@
+{
+  "stored_at": "2026-07-13T10:26:05.038538+00:00",
+  "run_date": "2026-07-13",
+  "triggered": true,
+  "analysed_at": "2026-07-13T10:25:48.867801+00:00",
+  "keyword": "project management software for agencies",
+  "our_url": "https://clientco.com/project-management-software",
+  "position_change": {
+    "yesterday": 2,
+    "today": 9,
+    "delta": 7
+  },
+  "traffic_impact": {
+    "yesterday": 1840,
+    "today": 310,
+    "loss_percent": 83.2
+  },
+  "serp_feature_changes": {
+    "ai_overview": {
+      "was": false,
+      "now": true
+    },
+    "sitelinks": {
+      "was": true,
+      "now": false
+    }
+  },
+  "analysis": {
+    "issue_type": "intent_shift",
+    "confidence_score": 0.91,
+    "root_cause": "Google has shifted the dominant content format for this keyword from product landing pages to review aggregators and editorial listicles. The top 5 results are now dominated by G2, Capterra, TechRadar, PCMag, and Forbes \u2014 none of which were in the top 5 yesterday. This is a clear intent reclassification: Google now believes users searching this query want comparative reviews, not vendor product pages.",
+    "evidence": [
+      "Top 5 yesterday: 5x product_landing_page. Top 5 today: 3x review_listicle + 2x editorial_listicle \u2014 a complete inversion.",
+      "New entrants G2, Capterra, and TechRadar displaced product pages including our own, despite our domain authority being unchanged.",
+      "AI Overview appeared for the first time today, further compressing organic CTR for product landing pages at positions 6-10."
+    ],
+    "recommended_action": "Create a comprehensive 'Best Project Management Software for Agencies' comparison article that includes ClientCo alongside competitors, optimised for the listicle format now dominating the SERP. Target G2 and Capterra review listings simultaneously.",
+    "secondary_actions": [
+      "Optimise ClientCo's G2 and Capterra profiles immediately \u2014 these are now positions 1-2 and will drive referral traffic.",
+      "Submit a PR campaign to TechRadar and PCMag to secure inclusion in their best-of listicles for this category."
+    ],
+    "urgency": "high",
+    "estimated_traffic_recovery_timeline": "6-10 weeks if a comparison article is published within 2 weeks and review profiles are optimised immediately.",
+    "content_format_recommendation": "Long-form comparison listicle (2,500-4,000 words) covering top 8-10 tools with a clear bias toward ClientCo use cases, structured with H2 per tool and a comparison table.",
+    "competitor_to_monitor": "g2.com"
+  }
+}
